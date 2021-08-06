@@ -6,7 +6,4 @@
 
 
 - bullet point
-
-
-
 aaaaaaaaaaaaaaaaaaaaaa
