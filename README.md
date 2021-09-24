@@ -2,5 +2,5 @@
 A simplistic repository to practice studies in some little projects
 
 # type of the projects 
-- TDD 
+- unit tests
 - algorithms 
